@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\TP1_RodriguezLeandro\TP1_RodriguezLeandro\bin\Debug\TP1_RodriguezLeandro.dll
+C:\Users\Usuario\source\repos\TP1_RodriguezLeandro\TP1_RodriguezLeandro\bin\Debug\TP1_RodriguezLeandro.pdb
+C:\Users\Usuario\source\repos\TP1_RodriguezLeandro\TP1_RodriguezLeandro\obj\Debug\TP1_RodriguezLeandro.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TP1_RodriguezLeandro\TP1_RodriguezLeandro\obj\Debug\TP1_RodriguezLeandro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TP1_RodriguezLeandro\TP1_RodriguezLeandro\obj\Debug\TP1_RodriguezLeandro.dll
+C:\Users\Usuario\source\repos\TP1_RodriguezLeandro\TP1_RodriguezLeandro\obj\Debug\TP1_RodriguezLeandro.pdb
